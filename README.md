@@ -1,2 +1,0 @@
-# pokemon
-pokemon website fanmade
